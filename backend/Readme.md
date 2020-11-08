@@ -34,3 +34,4 @@ And run the service
 
     >>> uvicorn teacheress.main:app
 
+Go see the local docs on http://localhost:8000/docs
