@@ -10,6 +10,7 @@ Here we deploy a python fast api backend that serves and stores appointments.
 - python3.8, pip
 
     >>> pip install -r requirements.txt
+    
 
 See `requierements.txt` for a list of all packages.
 

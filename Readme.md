@@ -26,5 +26,5 @@ Backend Service
 
 ## Structure
 
-`app` containes the angular web app
-[`backend`](backend/Readme.md) contains a python fast api backend service.
+- `app` containes the angular web app
+- [`backend`](backend/) contains a python fast api backend service.
