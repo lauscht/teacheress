@@ -26,3 +26,11 @@ Install the requirements and run the setup.
     (.venv) >>> pip install -r requirements.txt
     (.venv) >>> python setup.py develop
 
+Test the app using pytest
+
+    >>> pytest
+
+And run the service
+
+    >>> uvicorn teacheress.main:app
+
