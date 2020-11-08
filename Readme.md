@@ -15,6 +15,16 @@ Todos:
 
 ## Requirements
 
+Frontend PWA
 - angular.io
 - angular pwa
     https://angular.io/api/service-worker
+
+Backend Service
+- python3.8
+- fast api
+
+## Structure
+
+`app` containes the angular web app
+`backend` contains a python fast api backend service.
