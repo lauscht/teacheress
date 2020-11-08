@@ -16,3 +16,5 @@ Todos:
 ## Requirements
 
 - angular.io
+- angular pwa
+    https://angular.io/api/service-worker
