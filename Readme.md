@@ -15,6 +15,7 @@ Todos:
 - markdown support
 - redis database
 - docker compose
+- OAuth Flow
 
 ## Requirements
 
