@@ -12,6 +12,9 @@ Todos:
 - predefined slots from a template (e.g. coffee break each day at 10:30) should be defineable
 - tag based view
 - search capability
+- markdown support
+- redis database
+- docker compose
 
 ## Requirements
 
